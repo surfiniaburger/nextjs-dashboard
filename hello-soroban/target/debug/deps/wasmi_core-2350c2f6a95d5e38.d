@@ -1,0 +1,11 @@
+C:\Users\CCL\Desktop\hello-soroban\target\debug\deps\libwasmi_core-2350c2f6a95d5e38.rmeta: C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\lib.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\host_error.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\nan_preserving_float.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\trap.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\units.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\untyped.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\value.rs
+
+C:\Users\CCL\Desktop\hello-soroban\target\debug\deps\wasmi_core-2350c2f6a95d5e38.d: C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\lib.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\host_error.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\nan_preserving_float.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\trap.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\units.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\untyped.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\value.rs
+
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\lib.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\host_error.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\nan_preserving_float.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\trap.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\units.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\untyped.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmi_core-0.13.0\src\value.rs:

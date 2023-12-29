@@ -1,0 +1,12 @@
+C:\Users\CCL\Desktop\hello-soroban\target\debug\deps\libbase16ct-028c04f5d657bbee.rmeta: C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lib.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lower.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\mixed.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\upper.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\display.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\error.rs
+
+C:\Users\CCL\Desktop\hello-soroban\target\debug\deps\libbase16ct-028c04f5d657bbee.rlib: C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lib.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lower.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\mixed.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\upper.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\display.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\error.rs
+
+C:\Users\CCL\Desktop\hello-soroban\target\debug\deps\base16ct-028c04f5d657bbee.d: C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lib.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lower.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\mixed.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\upper.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\display.rs C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\error.rs
+
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lib.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\lower.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\mixed.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\upper.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\display.rs:
+C:\Users\CCL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base16ct-0.2.0\src\error.rs:
